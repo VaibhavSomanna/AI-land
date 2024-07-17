@@ -1,0 +1,1 @@
+Using the mediapipe library for pose detection/angle detection and openCV for real time video capturing and tge pyttsx3 library for voice commands, this projects helps perform a set of exercises in the correct form with voice commands for proper conduction of the exercises.
